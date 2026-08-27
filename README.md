@@ -1,5 +1,5 @@
 # Real-World Enterprise Scenario: Linux User & Group Access Management
-### Company: **NovaCore Technologies** — Server: `prod-app-01` (Ubuntu 22.04 LTS)
+### Company: **NovaCore Technologies** — Server: `prod-app-01` (Ubuntu 24.04 LTS)
 
 ---
 
