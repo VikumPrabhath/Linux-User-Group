@@ -20,14 +20,14 @@ This is the kind of task a Linux Administrator / DevOps Engineer receives in wee
                          prod-app-01 (Ubuntu 22.04)
                          ─────────────────────────
                                    │
-        ┌──────────────────────────────────────────────────┐
-        │                    /etc/group                     │
+        ┌────────────────────────────────────────────────────┐
+        │                    /etc/group                      │
         │                                                    │
         │   platform-eng   security-team   support-l1        │
         │   (full sudo)    (audit + read)  (restricted cmds) │
-        └──────────────────────────────────────────────────┘
+        └────────────────────────────────────────────────────┘
                 │                 │                │
-        ┌───────┴───────┐ ┌───────┴───────┐ ┌──────┴──────┐
+        ┌───────┴───────┐ ┌───────┴────────┐ ┌──────┴──────┐
         │ arjun.k       │ │ priya.s        │ │ nadeesha.p  │
         │ platform-eng  │ │ security-team  │ │ support-l1  │
         │ + docker      │ │                │ │             │
