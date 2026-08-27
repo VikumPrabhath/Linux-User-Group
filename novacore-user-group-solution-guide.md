@@ -1,7 +1,7 @@
 # NovaCore Technologies — User, Group & Sudo Access Management
 ## Solution Guide (Companion to the Task Roadmap)
 
-> **Server:** `prod-app-01` — Ubuntu 22.04 LTS
+> **Server:** `prod-app-01` — Ubuntu 24.04 LTS
 > **Scope:** This guide walks through the exact commands, verification steps, and expected output for onboarding three teams (Platform Engineering, Security, Support L1) with group-based, least-privilege sudo access — plus a bonus phase showing how those accounts are used in a real config-deployment workflow.
 >
 > Each step below matches the numbered task in the roadmap article, so you can use the two documents side by side: task file = "what to do," this file = "how to do it correctly."
